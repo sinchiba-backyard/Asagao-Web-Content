@@ -23,8 +23,10 @@ VS Code についての詳細は[こちら](/slides/vscode/install/)を参照
 
 ここでは
 
+#
 {{< fragment >}} すでに git clone されている {{< /fragment >}}
 
+#
 {{< fragment >}} という前提で進めます {{< /fragment >}}
 
 ---
@@ -59,7 +61,8 @@ Asagao-Web-Content のディレクトリ(フォルダ)を開くと、
 
 ---
 
-ここではコンテンツを一個仮に作ってみます。お
+ここではコンテンツを一個仮に作ってみます。
+
 posts/2022 を選択します。
 
 {{< figure src="Screenshot from 2022-04-13 15-38-28.png" width="60%" link="Screenshot from 2022-04-13 15-38-28.png" >}}
