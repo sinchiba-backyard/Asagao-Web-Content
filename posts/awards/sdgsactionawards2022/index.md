@@ -2,7 +2,7 @@
 title: "SDGs Action! AWARDS 2022"
 subtitle: "自治体〈北海道下川町〉賞を受賞"
 date: 2022-03-03T02:02:04+09:00
-rating: 2
+weight: 2
 ---
 2022年3月3日に開催された朝日新聞主催【大学 SDGs ACTION! AWARDS 2022】であさがおプロジェクトが自治体〈北海道下川町〉賞を受賞しました。
 <!--more-->
