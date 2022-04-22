@@ -6,7 +6,7 @@ date: 2022-04-22T00:50:42+09:00
 先日、大学 SDGs ACTION! AWARDS 2022 で受賞した【自治体（北海道下川町）賞】の副賞として、下川町にて視察をする機会をいただきました！
 4/21~4/24の間、下川町での視察を予定しており、その様子を毎日ブログにアップしていきます
 <!--more-->
-{{< figure src="cover.jpg" link="cover.jpg" width="640px">}}
+{{< figure src="yokkuru-futari.jpg" link="yokkuru-futari.jpg" width="640px">}}
 
 # 「みなみや」でうどん
 お昼は「みなみや」でおうどんを食べました
@@ -17,9 +17,10 @@ date: 2022-04-22T00:50:42+09:00
 {{< figure src="minamiya-udon.jpg" link="minamiya-udon.jpg" width="480px">}}
 
 # キッズスクール
-それから、キッズスクールのコーディネーターさんの平間さんにお話をうかがいました。
+キッズスクールのコーディネーターさんの平間さんにお話をうかがいました。
 キッズスクールのこと、子どもたちのことなどについてたくさんお話ししてくださいました。
 大変勉強になるお話をありがとうございます！
+
 [キッズスクール](https://shimokawa-town.note.jp/n/nc2f63ffaeb6b)
 
 # ヨックルにチェックイン
