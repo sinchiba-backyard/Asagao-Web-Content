@@ -13,6 +13,7 @@ date: 2022-04-22T21:41:59+09:00
 認定こども園の子どもたちと一緒に遊びました(^o^)
 
 どんぐりのプレゼントもいただきました〜
+
 {{< figure src="donguri.jpg" link="donguri.jpg" width="480px">}}
 
 # 教育委員会の方との談話
@@ -26,6 +27,7 @@ date: 2022-04-22T21:41:59+09:00
 ランチの前に、一ノ橋バイオビレッジを視察しました
 
 コンパクトな町のデザイン設計に感銘を受けました
+
 {{< figure src="itinohashi.jpg" link="itinohashi.jpg" width="480px">}}
 
 # ランチで謎解き
@@ -38,6 +40,7 @@ date: 2022-04-22T21:41:59+09:00
 また、哲学のお話や探求学習のゲストティーチャーの体験などたくさんお話ししていただき、ありがとうございました！
 
 駅カフェのレッドカレーもとても美味しくいただきました〜
+
 {{< figure src="ekicafe_fujisan.jpg" link="ekicafe_fujisan.jpg" width="480px">}}
 {{< figure src="ekicafe_syuugou.jpg" link="ekicafe_syuugou.jpg" width="480px">}}
 
@@ -45,6 +48,7 @@ date: 2022-04-22T21:41:59+09:00
 副町長と政策推進課の方々へ、あさがおプロジェクトの活動概要についてプレゼンテーションをしました
 
 貴重なお時間をいただき、ありがとうございました！
+
 {{< figure src="meeting_up.jpg" link="meeting_up.jpg" width="480px">}}
 
 # 子どもたちとおしゃべり
@@ -53,6 +57,7 @@ date: 2022-04-22T21:41:59+09:00
 小1〜小3の子どもたちと一緒に今はまっていることや学校のことなどについておしゃべりをしました(^o^)
 
 また、職員の方にも施設運営についてお話をうかがいました
+
 {{< figure src="jidoukan_boad.jpg" link="jidoukan_boad.jpg" width="480px">}}
 
 # コモレビ へ
@@ -61,6 +66,7 @@ date: 2022-04-22T21:41:59+09:00
 コモレビでタノシモカフェでお会いした職員の方と再開することができました〜
 
 さらに、コモレビで遊んでいた子どもたちに町を案内していただけることに！
+
 {{< figure src="komorebi_nanmodayo2.jpg" link="komorebi_nanmodayo2.jpg" width="480px">}}
 
 # 小学生ガイドさんと町さんぽ
@@ -71,6 +77,7 @@ date: 2022-04-22T21:41:59+09:00
 フレペでは一緒に楽しく遊びました〜
 
 明日も会う約束をして さようなら をしました^^
+
 {{< figure src="furepe.jpg" link="furepe.jpg" width="480px">}}
 {{< figure src="ukinsan_withsyokubutu.jpg" link="ukinsan_withsyokubutu.jpg" width="480px">}}
 
