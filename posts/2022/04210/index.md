@@ -35,9 +35,8 @@ date: 2022-04-22T00:50:42+09:00
 
 また、夕日もとても綺麗でした^^
 
-{{< figure src="yokkuru-house.jpg" link="yokkuru-house.jpg" width="240px">}}
-{{< figure src="yokkuru-room.jpg" link="yokkuru-room.jpg" width="240px">}}
-{{< figure src="shimokawa-sunset.jpg" link="shimokawa-sunset.jpg" width="240px">}}
+{{< figure src="yokkuru-house.jpg" link="yokkuru-house.jpg" width="480px">}}
+{{< figure src="shimokawa-sunset.jpg" link="shimokawa-sunset.jpg" width="480px">}}
 
 # 再度「みなみや」に
 再度「みなみや」に戻り、お店の方が子ども食堂を運営していたことについてのお話を聞かせていただきました。
