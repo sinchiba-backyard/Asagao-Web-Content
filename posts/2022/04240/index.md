@@ -10,7 +10,7 @@ date: 2022-04-25T21:42:08+09:00
 {{< figure src="banri.jpg" link="banri.jpg" width="640px">}}
 
 # 下川町の万里の長城へ
-最終日は下川町の[万里の長城](http://www.shimokawa-time.net/event/banri/)へ視察しに行きました〜
+最終日は下川町の [万里の長城](http://www.shimokawa-time.net/event/banri/)へ視察しに行きました〜
 
 町の人と一緒につくりあげた万里の長城は圧巻でした
 

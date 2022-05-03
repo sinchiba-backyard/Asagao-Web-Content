@@ -9,8 +9,8 @@ date: 2022-04-22T00:50:42+09:00
 <!--more-->
 {{< figure src="yokkuru-futari.jpg" link="yokkuru-futari.jpg" width="640px">}}
 
-# 「みなみや」でうどん
-お昼は[みなみや](https://shimokawa-minamiya.com/)でおうどんを食べました
+# みなみや でうどん
+お昼は [みなみや](https://shimokawa-minamiya.com/)でおうどんを食べました
 
 温かいおうどんはふわふわした食感で、とても美味しくいただきました
 
