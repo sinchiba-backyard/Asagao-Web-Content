@@ -19,7 +19,7 @@ date: 2022-04-24T21:42:03+09:00
 {{< figure src="simokko.jpg" link="simokko.jpg" width="480px">}}
 
 # レトロ喫茶でランチ
-アポロで竹本さんとランチをしました
+アポロで[竹本さん](https://shimokawa-town.note.jp/n/n0be88dfa958d)とランチをしました
 
 しもかわっこ のこと、学校のことなどお話ししていただき、ありがとうございました！
 
@@ -30,7 +30,7 @@ date: 2022-04-24T21:42:03+09:00
 {{< figure src="aporo.JPG" link="aporp.JPG" width="480px">}}
 
 # 山へ山菜取りに
-河童なガイド屋Saike の べぇやん さんと一緒に山へ山菜取りに行きました〜
+[河童なガイド屋Saike](https://www.youtube.com/channel/UChXMOurADnRd-DrgvP1FMig?app=desktop)の べぇやん さんと一緒に山へ山菜取りに行きました〜
 
 午前中は雨が降っていましたが、山菜取りの時には止んでいたので安心しました
 
@@ -42,9 +42,9 @@ date: 2022-04-24T21:42:03+09:00
 {{< figure src="ukinsan_withsansai.JPG" link="ukinsan_withsansai.JPG" width="480px">}}
 
 # 約束の あそべや へ
-昨日子どもたちと約束した あそべや に行きました^^
+昨日子どもたちと約束した[あそべや](https://slowbiyori.com/article-asobeya/) に行きました^^
 
-あそべや のオーナーの奈須さんにもお話をうかがうことができました
+あそべや のオーナーの[奈須さん](https://motokurashi.com/hokkaido-shimokawacho-nasukenichirou/20170306)にもお話をうかがうことができました
 
 また、子どもたちからチョコケーキもいただきました
 
