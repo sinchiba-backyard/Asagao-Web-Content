@@ -19,7 +19,7 @@ date: 2022-04-23T21:41:59+09:00
 # 教育委員会の方との談話
 教育委員会の和田さんと本間さんに教育概要紹介をしていただきました
 
-特に、[10代スペースKOTOBUKI]（https://www.town.shimokawa.hokkaido.jp/section/2022/03/10-kotobuki.html)についてのお話は、時間が足りなくなるくらい盛り上がりました！
+特に、[10代スペースKOTOBUKI](https://www.town.shimokawa.hokkaido.jp/section/2022/03/10-kotobuki.html)についてのお話は、時間が足りなくなるくらい盛り上がりました！
 
 大変勉強になるお話をありがとうございました！
 
