@@ -31,7 +31,7 @@ date: 2022-04-23T21:41:59+09:00
 {{< figure src="itinohashi.jpg" link="itinohashi.jpg" width="480px">}}
 
 # ランチで謎解き
-駅カフェでたまたまいらっしゃった[ふじさん](https://shimokawa-life.info/interviews/interview/interview-vol19/) と一緒にランチをしました^^
+駅カフェでたまたまいらっしゃった [ふじさん](https://shimokawa-life.info/interviews/interview/interview-vol19/) と一緒にランチをしました^^
 
 ランチを待つ間、ふじさんが作った謎解きをしました
 
@@ -95,3 +95,6 @@ date: 2022-04-23T21:41:59+09:00
 
 下川町でのできごとをまだまだシェアしますので、お楽しみに！ 
 
+1日目の記事は[こちら](https://asagao.48ers.jp/posts/2022/04210/)
+
+3日目の記事は[こちら](https://asagao.48ers.jp/posts/2022/04230/)
