@@ -19,7 +19,7 @@ date: 2022-04-24T21:42:03+09:00
 {{< figure src="simokko.jpg" link="simokko.jpg" width="480px">}}
 
 # レトロ喫茶でランチ
-アポロで[竹本さん](https://shimokawa-town.note.jp/n/n0be88dfa958d)とランチをしました
+アポロで [竹本さん](https://shimokawa-town.note.jp/n/n0be88dfa958d)とランチをしました
 
 しもかわっこ のこと、学校のことなどお話ししていただき、ありがとうございました！
 
@@ -42,9 +42,9 @@ date: 2022-04-24T21:42:03+09:00
 {{< figure src="ukinsan_withsansai.JPG" link="ukinsan_withsansai.JPG" width="480px">}}
 
 # 約束の あそべや へ
-昨日子どもたちと約束した[あそべや](https://slowbiyori.com/article-asobeya/) に行きました^^
+昨日子どもたちと約束した [あそべや](https://slowbiyori.com/article-asobeya/) に行きました^^
 
-あそべや のオーナーの[奈須さん](https://motokurashi.com/hokkaido-shimokawacho-nasukenichirou/20170306)にもお話をうかがうことができました
+あそべや のオーナーの [奈須さん](https://motokurashi.com/hokkaido-shimokawacho-nasukenichirou/20170306)にもお話をうかがうことができました
 
 また、子どもたちからチョコケーキもいただきました
 
