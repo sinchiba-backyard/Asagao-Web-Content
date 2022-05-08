@@ -11,4 +11,4 @@ date: 2022-05-05T13:12:59+09:00
 
 ゆっくりすることも素敵な選択肢の1つですよ^^
 
-{{< figure src="kodomonohi_poster.png" link="kodomonohi_poster.png" width="480px">}}
+{{< figure src="motherday.png" link="motherday.png" width="480px">}}
