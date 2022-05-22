@@ -29,7 +29,7 @@ date: 2022-05-11T13:12:59+09:00
 
 特に、山菜取り にみんな興味津々でした
 
-{{< figure src="dougamiru.png" link="dougamiru.png" width="480px">}}
+{{< figure src="dougamiyou.png" link="dougamiyou.png" width="480px">}}
 
 ビデオの最後に [jojoni](https://www.jojoni.co/) さんからのメッセージを見て、jojoni さんのクッキーを配りました
 
