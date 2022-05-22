@@ -7,7 +7,7 @@ date: 2022-05-11T13:12:59+09:00
 
 その副賞として 下川町から特産品を含めた食べ物など をいただいたので、子ども食堂の子どもたちにプレゼントしました
 
-{{< figure src="omiyage.png" link="omiyage.png" width="480px">}}
+{{< figure src="omiyage.jpg" link="omiyage.jpg" width="480px">}}
 
 # 子どもたちの反応
 子どもたちに「下川町のみなさんからプレゼントがあるよ〜！」と声をかけるやいなや「何があるの？」と みんな興味津々！
@@ -29,7 +29,7 @@ date: 2022-05-11T13:12:59+09:00
 
 特に、山菜取り にみんな興味津々でした
 
-{{< figure src="minnade.png" link="minnade.png" width="480px">}}
+{{< figure src="dougamiru.png" link="dougamiru.png" width="480px">}}
 
 ビデオの最後に [jojoni](https://www.jojoni.co/) さんからのメッセージを見て、jojoni さんのクッキーを配りました
 
@@ -40,7 +40,7 @@ date: 2022-05-11T13:12:59+09:00
 # ありがとう！ 下川町！
 子どもたちが下川町のみなさんに「ありがとう」の気持ちを込めて、メッセージボードを作りました
 
-{{< figure src="arigato.png" link="arigato.png" width="480px">}}
+{{< figure src="arigato.jpg" link="arigato.jpg" width="480px">}}
 
 子どもたちはとても喜んでいましたし、子どもたちにとって とても素晴らしい体験をする機会になりました
 
