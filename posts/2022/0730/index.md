@@ -11,7 +11,9 @@ date: 2022-05-11T13:12:59+09:00
 
 イベント終了後は、カルシウムが多く含まれるおかし や 早寝早起き朝ごはんチェックカードを配布しました
 
-{{< figure src="syuugousyasinn.png" link="syuugousyasinn.png" width="480px">}}
+また、今回寄付をしてくださった 魏梦瑶 さま 、ありがとうございます！
+
+{{< figure src="syuugousyasinn.jpg" link="syuugousyasinn.jpg" width="480px">}}
 
 # 子どもたちの反応
 
