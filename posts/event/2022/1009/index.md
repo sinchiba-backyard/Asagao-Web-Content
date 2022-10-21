@@ -8,8 +8,7 @@ tags: [ゆるテック]
 <!--more-->
 まるで魔法を使っているような気分になれます
 
-{{< figure src="cover.jpg" link="cover.jpg" width="480px">}}
-{{< figure src="taiken.jpg" link="taiken.jpg" width="480px">}}
+{< figure src="taiken.jpg" link="taiken.jpg" width="480px">}
 
 # 使い方
 宝箱を開けるゲームやスイカ割りを手軽に楽しむことができます😊
