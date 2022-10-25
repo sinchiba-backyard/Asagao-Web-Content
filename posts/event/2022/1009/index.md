@@ -8,7 +8,7 @@ tags: [ゆるテック]
 <!--more-->
 まるで魔法を使っているような気分になれます
 
-{< figure src="taiken.jpg" link="taiken.jpg" width="480px">}
+{{< figure src="taiken.jpg" link="taiken.jpg" width="480px">}}
 
 # 使い方
 宝箱を開けるゲームやスイカ割りを手軽に楽しむことができます😊
@@ -43,7 +43,7 @@ tags: [ゆるテック]
 
 ＜M5StickC Plus（魔法のステッキのもと）のプログラミングコード＞
 
-[パワーポイント見本(zip)](/downloads/Takarabako.zip)
+＜[パワーポイント見本(zip)](/downloads/Takarabako.zip)＞
 
 ①魔法のステッキで宝箱を開けよう！
 
