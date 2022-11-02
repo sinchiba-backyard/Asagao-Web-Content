@@ -24,7 +24,7 @@ weight: 10
 
 「これは皮が緑だから東京カボチャだ」と教えてくれた子もいました^^
 
-{{< figure src="fishing.jpg" link="fishing.jpg" width="480px">}}
+{{< figure src="quiz.PNG" link="quiz.PNG" width="480px">}}
 
 # おうちの方のコメント
 
