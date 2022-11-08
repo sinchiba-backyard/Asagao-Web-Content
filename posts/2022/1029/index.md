@@ -16,7 +16,7 @@ weight: 10
 
 また、この食育イベントを開催するために尽力してくださった先生、職員さん、プロジェクトメンバー、ボランティアスタッフさん、見学に来てくださった日本大学新聞社さん、すべての方に感謝を申し上げます
 
-{{< figure src="cover.jpg" link="cover.jpg" width="480px">}}
+{{< figure src="opening2.jpg" link="opening2.jpg" width="480px">}}
 
 # 子どもたちの反応
 
