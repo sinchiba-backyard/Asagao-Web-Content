@@ -1,5 +1,5 @@
 ---
-title: "中高生のための朝日SDGsジャーナルに掲載"
+title: "[メディア掲載]中高生のための朝日SDGsジャーナルに掲載"
 subtitle: "SDGs Action! AWARDS 2022 のその後"
 date: 2022-03-03T02:02:04+09:00
 weight: 2
