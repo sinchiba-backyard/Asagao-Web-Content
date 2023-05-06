@@ -10,13 +10,13 @@ weight: 3
 
 「カツカレー、醤油ラーメン、きつねうどん・そば」の中からセレクトして、参加してくださったみなさんと一緒にランチを食べました(^o^)
 
-{< figure src="syokudou.JPG" link="syokudou.JPG" width="480px">}
+{{< figure src="syokudou.JPG" link="syokudou.JPG" width="480px">}}
 
 ランチの後には、みなさんと一緒にレクリエーションを楽しみました！
 
 イベント終了後は、朝ごはんにピッタリの食品や文房具、早寝早起き朝ごはんチェックカードを配布しました
 
-{< figure src="reku.JPG" link="reku.JPG" width="480px">}
+{{< figure src="reku.JPG" link="reku.JPG" width="480px">}}
 
 イベントに参加してくださったみなさん、本当にありがとうございます！
 次回はもっと大学生とおしゃべりできる機会をつくりたいと思いますので、ぜひご参加ください^^
