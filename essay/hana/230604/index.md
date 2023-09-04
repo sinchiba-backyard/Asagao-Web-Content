@@ -34,3 +34,6 @@ date: 2023-06-04T15:12:34+09:00
 小さなしあわせ、おすそわけ。
 
 {{< right >}} (は) {{< /right >}}
+
+{{< figure src="cover.jpg" link="cover.jpg" width="480px">}}
+
