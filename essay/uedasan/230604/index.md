@@ -41,3 +41,5 @@ fast は「長い時間ごはんを食べないこと」\
 だから、朝ごはんはと〜っても大事!なのでした(^^)
 
 {{< right >}} (うえ) {{< /right >}}
+
+{{< figure src="cover.jpg" link="cover.jpg" width="480px">}}
