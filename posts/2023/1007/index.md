@@ -19,8 +19,17 @@ date: 2022-10-07T13:12:59+09:00
 ゲームを通じて見つけたり気づいたりした、身の回りに隠れた小さな幸せの共有が、見知らぬ人の「明日はきっと今日よりいい日になる」を応援し、その人の小さな幸せにつながるでしょう^^
 
 # 当日の様子
+体験型ゲームに夢中！
+{{< figure src="taiken1.jpg" link="taiken1.jpg" width="480px">}}
 
-{{< figure src="cover.jpg" link="setumei.jpg" width="480px">}}
+スタッフと一緒に小さなしあわせを考えました^^
+{{< figure src="happy.jpg" link="happy.jpg" width="480px">}}
+
+真剣に小さなしあわせを書いてくれました！
+{{< figure src="happy2.jpg" link="happy2.jpg" width="480px">}}
+
+たくさんの小さなしあわせが集まりました♪
+{{< figure src="allhappy.jpg" link="allhappy.jpg" width="480px">}}
 
 # 子どもたちの反応
 会場ではこんな声が聞かれました！
