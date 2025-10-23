@@ -44,6 +44,7 @@ weight: 1
 {{< figure src="ブラサカ3.jpeg" link="ブラサカ3.jpeg" width="480px">}}
 
 最後はみんなでミニゲームを行い、大盛り上がりでした！
+{{< figure src="ブラサカ2.jpeg" link="ブラサカ2.jpeg" width="480px">}}
 {{< figure src="ブラサカ1.jpeg" link="ブラサカ1.jpeg" width="480px">}}
 
 # プレゼント
