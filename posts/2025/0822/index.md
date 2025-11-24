@@ -28,19 +28,19 @@ date: 2025-08-22T13:12:59+09:00
 その他お惣菜：からあげ, 照り焼きチキン, フライドポテト, エビ春巻き, オレンジ, ミニゼリーなど
 
 みんなで「いただきます」！
-{{< figure src="ランチ.jpeg" link="ランチ.jpeg" width="480px">}}
-{{< figure src="オレンジ.jpeg" link="オレンジ.jpeg" width="480px">}}
+{{< figure src="ランチ.jpg" link="ランチ.jpg" width="480px">}}
+{{< figure src="オレンジ.jpg" link="オレンジ.jpg" width="480px">}}
 
 # レクリエーション
 ランチの後には、講師に絵本作家として活躍している つついるなさん をお迎えして、絵本づくりワークショップを行いました！
 
 今年度刊行予定の絵本に登場する背景などを一緒に描きました🎨
-{{< figure src="絵本2.jpeg" link="絵本2.jpeg" width="480px">}}
+{{< figure src="絵本2.jpg" link="絵本2.jpg" width="480px">}}
 絵本の構成をじっくり検討💭
 
 絵の具や色鉛筆を使って、楽しく自由に絵を描いていました！
-{{< figure src="絵本3.jpeg" link="絵本3.jpeg" width="480px">}}
-{{< figure src="絵本1.jpeg" link="絵本1.jpeg" width="480px">}}
+{{< figure src="絵本3.jpg" link="絵本3.jpg" width="480px">}}
+{{< figure src="絵本1.jpg" link="絵本1.jpg" width="480px">}}
 
 # プレゼント♪
 イベント終了後は、プレゼントをお渡ししました(^o^)

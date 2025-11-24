@@ -25,7 +25,7 @@ draft: true
 
 # アイスブレイク
 アイスブレイクは、カードゲームのitoで盛り上がりました♪
-{{< figure src="アイスブレイク.jpeg" link="アイスブレイク.jpeg" width="480px">}}
+{{< figure src="アイスブレイク.jpg" link="アイスブレイク.jpg" width="480px">}}
 
 # ランチ
 ランチメニューです☆
@@ -36,11 +36,11 @@ draft: true
 
 # 中学生向けキャリアイベント
 ランチの後には、中学生向けキャリアイベントを行いました！
-{{< figure src="案内.jpeg" link="案内.jpeg" width="480px">}}
+{{< figure src="案内.jpg" link="案内.jpg" width="480px">}}
 
 # プレゼント♪
 イベント終了後は、プレゼントをお渡ししました(^o^)
-{{< figure src="プレゼント.jpeg" link="プレゼント.jpeg" width="480px">}}
+{{< figure src="プレゼント.jpg" link="プレゼント.jpg" width="480px">}}
 
 # 子どもたちの声
 子どもたちからは、このような声をいただきました
